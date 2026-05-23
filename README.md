@@ -5,7 +5,7 @@ Players can collect materials, craft clothes, and earn money as a professional t
 
 Built fully as a standalone resource with support for OX ecosystem tools.
 
-✨ Features
+#✨ Features
 🧵 Collect materials
 👕 Craft clothing items
 🌍 Fully standalone
@@ -16,6 +16,7 @@ This resource requires:
 ox_lib
 ox_target
 ox_inventory
+
 📸 Preview
 
 
@@ -30,10 +31,10 @@ ensure ox_target
 ensure ox_inventory
 ensure j-tailor
 
-📁 Framework
+#📁 Framework
 Standalone
 Supports Ox ecosystem
 
-📄 License
+#📄 License
 This project is licensed for personal and server use.
 Do not reupload without permission.
