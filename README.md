@@ -6,10 +6,10 @@ Players can collect materials, craft clothes, and earn money as a professional t
 Built fully as a standalone resource with support for OX ecosystem tools.
 
 #✨ Features
-🧵 Collect materials
-👕 Craft clothing items
-🌍 Fully standalone
-🛠 Custom Minigame
+- 🧵 Collect materials
+- 👕 Craft clothing items
+- 🌍 Fully standalone
+- 🛠 Custom Minigame
 
 This resource requires:
 
