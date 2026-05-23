@@ -26,10 +26,10 @@ Installation
 3. Ensure dependencies are installed
 4. Add this to your server.cfg:
 
-ensure ox_lib
-ensure ox_target
-ensure ox_inventory
-ensure j-tailor
+- ensure ox_lib
+- ensure ox_target
+- ensure ox_inventory
+- ensure j-tailor
 
 #📁 Framework
 - Standalone
