@@ -18,7 +18,7 @@
 - ox_inventory
 
 📸 Preview
-
+**https://youtu.be/p56WC8M089g**
 
 Installation
 1. Download the script
