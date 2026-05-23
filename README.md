@@ -1,3 +1,4 @@
+<img width="1280" height="720" alt="Yttb" src="https://github.com/user-attachments/assets/afa5a00b-aa2a-4e79-9428-7d2b309d9af7" />
 # j-tailor
 
 - An immersive tailor job with custom minigame for FiveM servers.
