@@ -1,9 +1,9 @@
 # j-tailor
 
-An immersive tailor job with custom minigame for FiveM servers.
-Players can collect materials, craft clothes, and earn money as a professional tailor.
+- An immersive tailor job with custom minigame for FiveM servers.
+- Players can collect materials, craft clothes, and earn money as a professional tailor.
 
-Built fully as a standalone resource with support for OX ecosystem tools.
+- Built fully as a standalone resource with support for OX ecosystem tools.
 
 #✨ Features
 - 🧵 Collect materials
@@ -11,11 +11,11 @@ Built fully as a standalone resource with support for OX ecosystem tools.
 - 🌍 Fully standalone
 - 🛠 Custom Minigame
 
-This resource requires:
+#This resource requires:
 
-ox_lib
-ox_target
-ox_inventory
+- ox_lib
+- ox_target
+- ox_inventory
 
 📸 Preview
 
@@ -32,9 +32,9 @@ ensure ox_inventory
 ensure j-tailor
 
 #📁 Framework
-Standalone
-Supports Ox ecosystem
+- Standalone
+- Supports Ox ecosystem
 
 #📄 License
-This project is licensed for personal and server use.
-Do not reupload without permission.
+- This project is licensed for personal and server use.
+- Do not reupload without permission.
